@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2
+python-multipart
+opencv-python
+face_recognition
+numpy
+alembic
